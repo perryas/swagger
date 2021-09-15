@@ -1,0 +1,17 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "auto doc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "perryasp@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
